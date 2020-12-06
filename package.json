@@ -1,5 +1,5 @@
 {
-  "name": "@beaker/dat-archive-file-diff",
+  "name": "@beaker/dwebx-archive-file-diff",
   "version": "1.0.0",
   "description": "Get line-by-line diffs of text files in Dat archives",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beakerbrowser/dat-archive-file-diff.git"
+    "url": "git+https://github.com/beakerbrowser/dwebx-archive-file-diff.git"
   },
   "keywords": [
     "dat",
@@ -17,9 +17,9 @@
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beakerbrowser/dat-archive-file-diff/issues"
+    "url": "https://github.com/beakerbrowser/dwebx-archive-file-diff/issues"
   },
-  "homepage": "https://github.com/beakerbrowser/dat-archive-file-diff#readme",
+  "homepage": "https://github.com/beakerbrowser/dwebx-archive-file-diff#readme",
   "dependencies": {
     "beaker-error-constants": "^1.4.0",
     "binary-extensions": "^1.11.0",

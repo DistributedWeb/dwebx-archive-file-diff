@@ -1,12 +1,12 @@
-# dat-archive-file-diff
+# dwebx-archive-file-diff
 
 Get line-by-line diffs of text files in Dat archives. Basically a thin wrapper around [jsdiff](https://github.com/kpdecker/jsdiff).
 
 ```js
-const {diffLines} = require('dat-archive-file-diff')
+const {diffLines} = require('dwebx-archive-file-diff')
 
-var a = new DatArchive('...')
-var b = new DatArchive('...')
+var a = new DWebXArchive('...')
+var b = new DWebXArchive('...')
 var diff = await diffLines(a, '/foo.txt', b, '/foo.txt')
 ```
 
